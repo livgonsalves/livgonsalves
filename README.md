@@ -5,7 +5,7 @@
 📞 **Phone**: (978) 771-5073  
 🔗 **GitHub**: [Your GitHub URL]  
 🔗 **LinkedIn**: [[Your LinkedIn URL](https://www.linkedin.com/in/livia-gonsalves/)]  
-🔗 **Portfolio**: [[Your Portfolio URL](https://livgonsalves.github.io/my-portfolio/#contact)]  
+🔗 **Portfolio**: [(https://livgonsalves.github.io/my-portfolio/#contact)]  
 
 ## 🎓 Education
 - **Northeastern University**, Boston, MA  
