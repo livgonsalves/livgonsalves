@@ -14,7 +14,6 @@
 
 - **University of Mumbai**, Mumbai, India  
   Bachelor of Engineering - Computer Science (August 2022)  
-  GPA: 3.72
 
 ## 🛠️ Skills & Certifications
 - **Frontend Languages**: JavaScript (ES5/ES6), TypeScript, HTML, CSS (SASS/SCSS), JSON
