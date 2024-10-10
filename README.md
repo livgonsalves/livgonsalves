@@ -3,9 +3,9 @@
 📍 **Location**: Boston, MA, 02215  
 ✉️ **Email**: [livgonsalves1512@gmail.com](mailto:livgonsalves1512@gmail.com)  
 📞 **Phone**: (978) 771-5073  
-🔗 **GitHub**: [Your GitHub URL]  
-🔗 **LinkedIn**: [[Your LinkedIn URL](https://www.linkedin.com/in/livia-gonsalves/)]  
-🔗 **Portfolio**: [(https://livgonsalves.github.io/my-portfolio/#contact)]  
+🔗 **GitHub**: (https://github.com/livgonsalves) 
+🔗 **LinkedIn**: (https://www.linkedin.com/in/livia-gonsalves/)  
+🔗 **Portfolio**: (https://livgonsalves.github.io/my-portfolio/#contact)  
 
 ## 🎓 Education
 - **Northeastern University**, Boston, MA  
