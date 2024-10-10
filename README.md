@@ -1,40 +1,57 @@
-# 👋 Hi, I'm Livia Gonsalves!
+# 👋 Hi, I'm Livia Sanjeev Gonsalves!
 
-🎓 I’m currently pursuing a Master’s in Software Engineering Systems at Northeastern University, and I’m passionate about building innovative and scalable software solutions that make a difference. My journey in software engineering started with a solid foundation in Computer Science from the University of Mumbai, and I’ve been honing my skills ever since.
+📍 **Location**: Boston, MA, 02215  
+✉️ **Email**: [livgonsalves1512@gmail.com](mailto:livgonsalves1512@gmail.com)  
+📞 **Phone**: (978) 771-5073  
+🔗 **GitHub**: [Your GitHub URL]  
+🔗 **LinkedIn**: [[Your LinkedIn URL](https://www.linkedin.com/in/livia-gonsalves/)]  
+🔗 **Portfolio**: [[Your Portfolio URL](https://livgonsalves.github.io/my-portfolio/#contact)]  
 
-## 🌱 What I’m Working On
-- **Full-Stack Development**: I enjoy creating seamless user experiences and efficient backend systems. I’ve worked with frameworks like React, Vue.js, and Node.js, as well as backend technologies such as Spring Boot and Express.
-- **Game Development**: From creating interactive 3D running games in Unity to building animation blueprints in Unreal Engine, I love integrating creativity with technology.
-- **Mobile Applications**: I’ve developed cross-platform mobile apps using Flutter and Swift, focusing on performance and user engagement.
+## 🎓 Education
+- **Northeastern University**, Boston, MA  
+  Master of Science - Software Engineering Systems (Expected: December 2024)  
+  Relevant courses: Object Oriented Programming, Data Science, Algorithms, Database Design, User Experience Design, Software Quality, Cloud Computing
 
-## 🛠️ Skills
-- **Frontend**: JavaScript (ES5/ES6), TypeScript, HTML, CSS (SASS/SCSS), React, Vue.js, Angular
-- **Backend**: Java, Python, C#, PHP, Node.js, Django, Spring Boot
-- **Databases**: MySQL, MongoDB, Firebase, MS SQL, Oracle
-- **Cloud & DevOps**: AWS, Azure, Docker, CI/CD Pipelines, Infrastructure as Code (IaC)
-- **Tools**: Git, Visual Studio, Eclipse, Jupyter Notebook, Android Studio, Unity, Jenkins
-- **Testing**: Jasmine, Karma, Unit Testing, TDD
+- **University of Mumbai**, Mumbai, India  
+  Bachelor of Engineering - Computer Science (August 2022)  
+  GPA: 3.72
 
-## 🚀 My Interests
-- Building responsive and user-friendly web and mobile applications
-- Exploring new cloud technologies and implementing DevOps best practices
-- Developing interactive games and applications in Unity and Unreal Engine
-- Contributing to open-source projects and collaborating with developers worldwide
+## 🛠️ Skills & Certifications
+- **Frontend Languages**: JavaScript (ES5/ES6), TypeScript, HTML, CSS (SASS/SCSS), JSON
+- **Backend Languages**: C#, C++, Python, Java, PHP, .NET, XAML
+- **Frameworks**: Vue.js, React.js, AngularJS, Flutter, UWA, WebUI, Node.js, Express.js, Django, Ruby, Require.js, Spring Boot
+- **Databases**: Oracle, MySQL, MongoDB, Firebase, MS SQL, NuoDB
+- **DevOps & Cloud Technologies**: Docker, Kubernetes, Jenkins, AWS, Azure, Google Cloud, Terraform, CI/CD Pipelines, Monitoring (ELK, Prometheus, Grafana), IaC
+- **Tools**: Git, Jupyter Notebook, Android Studio, Eclipse, Unity, Visual Studio, Debugging Tools
+- **Testing**: Jasmine, Karma, Unit Testing, TDD, Automated Testing
+- **Certifications**: Microsoft Technology Associate (MTA) - Programming with Python (Issued: November 2021)
 
-## 💬 Connect With Me
-Feel free to reach out if you want to collaborate on projects or chat about tech, game development, or anything software-related!
+## 💼 Experience
+- **Software Engineer** | Dassault Systèmes | Waltham, MA  
+  *January 2024 - June 2024*  
+  - Developed interactive components using UWA, WebUI, and RequireJS, enhancing UI responsiveness and customer features
+  - Integrated supplier data from RESTful APIs, implemented secure coding practices, and automated testing with CI/CD pipelines
 
-<!--
-**livgonsalves/livgonsalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Program Assistant** | Northeastern University | Boston, MA  
+  *April 2023 - December 2023*  
+  - Resolved Virtual Lab issues and optimized cloud migrations using AWS, Azure, and Terraform (IaC), ensuring secure remote connections
 
-Here are some ideas to get you started:
+- **Software Developer** | SangHarsh | Mumbai, India  
+  *January 2019 - May 2019*  
+  - Built a crowdfunding website, raising $70,000 for social causes and enhancing user engagement through real-time updates
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Projects
+- **iJobHelper Auto-fill Extension** (Swift, WebKit, Xcode): Developed an iOS extension to automate job application forms, showcasing expertise in iOS development
+- **Sentiment Analysis of Songs using NLP** (Python, NLTK, TensorFlow): Developed models achieving an 87% accuracy rate through extensive model training
+- **Mental State Detection App** (Flutter, Dart, JavaScript): Created a cross-platform app with 1000+ users for sentiment analysis and emotion recognition
+- **Event Booking System** (HTML, CSS, JavaScript, MySQL, Angular): Developed a responsive web app for event management
+- **Location-Based Reminder App** (Node.js, Kotlin, Jenkins): Built a mobile app ensuring accurate geofence triggering
+
+## 🚀 Interests
+- Building responsive web and mobile applications
+- Exploring cloud technologies and DevOps practices
+- Game development using Unity and Unreal Engine
+- Collaborating on open-source projects
+
+## 📬 Connect With Me
+I'm always open to collaboration and discussions about software engineering and innovative tech solutions!
